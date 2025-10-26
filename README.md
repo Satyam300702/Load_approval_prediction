@@ -65,6 +65,6 @@ Accuracy	0.83
 ROC-AUC	0.79
 F1-Score	0.88 (for approved loans)
 ----------------------------------------------------------------------------------------------------------------------------------------------------
-git clone https://github.com/satyam300702/Loan_Approval_Prediction.git
+https://github.com/Satyam300702/Load_approval_prediction/tree/main
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 pip install -r requirements.txt
